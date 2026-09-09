@@ -1,7 +1,7 @@
 # DSA
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 5 (Easy: 3, Medium: 2, Hard: 0)
+Solved: 6 (Easy: 4, Medium: 2, Hard: 0)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -10,4 +10,5 @@ Solved: 5 (Easy: 3, Medium: 2, Hard: 0)
 | 191 | [Number of 1 Bits](191-number-of-1-bits/) | Easy | 2026-09-09 |
 | 1631 | [Path With Minimum Effort](1631-path-with-minimum-effort/) | Medium | 2026-09-09 |
 | 136 | [Single Number](136-single-number/) | Easy | 2026-09-09 |
+| 231 | [Power of Two](231-power-of-two/) | Easy | 2026-09-09 |
 <!-- LEETHUB:TABLE:END -->
