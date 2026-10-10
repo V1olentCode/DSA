@@ -1,7 +1,7 @@
 # DSA
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 13 (Easy: 7, Medium: 6, Hard: 0)
+Solved: 14 (Easy: 7, Medium: 7, Hard: 0)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -9,6 +9,7 @@ Solved: 13 (Easy: 7, Medium: 6, Hard: 0)
 | 338 | [Counting Bits](338-counting-bits/) | Easy | 2026-10-10 |
 | 55 | [Jump Game](55-jump-game/) | Medium | 2026-10-10 |
 | 1541 | [Minimum Insertions to Balance a Parentheses String](1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium | 2026-10-10 |
+| 2333 | [Minimum Sum of Squared Difference](2333-minimum-sum-of-squared-difference/) | Medium | 2026-10-10 |
 | 268 | [Missing Number](268-missing-number/) | Easy | 2026-10-10 |
 | 476 | [Number Complement](476-number-complement/) | Easy | 2026-10-10 |
 | 191 | [Number of 1 Bits](191-number-of-1-bits/) | Easy | 2026-10-10 |
@@ -17,5 +18,5 @@ Solved: 13 (Easy: 7, Medium: 6, Hard: 0)
 | 231 | [Power of Two](231-power-of-two/) | Easy | 2026-10-10 |
 | 190 | [Reverse Bits](190-reverse-bits/) | Easy | 2026-10-10 |
 | 136 | [Single Number](136-single-number/) | Easy | 2026-10-10 |
-| 2333 | [Minimum Sum of Squared Difference](2333-minimum-sum-of-squared-difference/) | Medium | 2026-10-10 |
+| 134 | [Gas Station](134-gas-station/) | Medium | 2026-10-10 |
 <!-- LEETHUB:TABLE:END -->
