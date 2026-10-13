@@ -9,6 +9,7 @@ Solved: 15 (Easy: 7, Medium: 8, Hard: 0)
 | 338 | [Counting Bits](338-counting-bits/) | Easy | 2026-10-13 |
 | 134 | [Gas Station](134-gas-station/) | Medium | 2026-10-13 |
 | 55 | [Jump Game](55-jump-game/) | Medium | 2026-10-13 |
+| 3727 | [Maximum Alternating Sum of Squares](3727-maximum-alternating-sum-of-squares/) | Medium | 2026-10-13 |
 | 1541 | [Minimum Insertions to Balance a Parentheses String](1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium | 2026-10-13 |
 | 2333 | [Minimum Sum of Squared Difference](2333-minimum-sum-of-squared-difference/) | Medium | 2026-10-13 |
 | 268 | [Missing Number](268-missing-number/) | Easy | 2026-10-13 |
@@ -19,5 +20,4 @@ Solved: 15 (Easy: 7, Medium: 8, Hard: 0)
 | 231 | [Power of Two](231-power-of-two/) | Easy | 2026-10-13 |
 | 190 | [Reverse Bits](190-reverse-bits/) | Easy | 2026-10-13 |
 | 136 | [Single Number](136-single-number/) | Easy | 2026-10-13 |
-| 3727 | [Maximum Alternating Sum of Squares](3727-maximum-alternating-sum-of-squares/) | Medium | 2026-10-13 |
 <!-- LEETHUB:TABLE:END -->
