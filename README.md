@@ -1,7 +1,7 @@
 # DSA
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 15 (Easy: 7, Medium: 8, Hard: 0)
+Solved: 16 (Easy: 7, Medium: 9, Hard: 0)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -20,4 +20,5 @@ Solved: 15 (Easy: 7, Medium: 8, Hard: 0)
 | 231 | [Power of Two](231-power-of-two/) | Easy | 2026-10-13 |
 | 190 | [Reverse Bits](190-reverse-bits/) | Easy | 2026-10-13 |
 | 136 | [Single Number](136-single-number/) | Easy | 2026-10-13 |
+| 8 | [String to Integer (atoi)](8-string-to-integer-atoi/) | Medium | 2026-10-13 |
 <!-- LEETHUB:TABLE:END -->
