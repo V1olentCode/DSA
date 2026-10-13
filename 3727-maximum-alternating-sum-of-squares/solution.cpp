@@ -1,31 +1,23 @@
-// 181 ms | 212 MB
+// 16 ms | 211.9 MB
 class Solution {
 public:
     #define ll long long
     long long maxAlternatingSum(vector<int>& nums) {
-        priority_queue<ll> pq;
+        vector<ll> pq;
         for(auto c:nums) {
-            pq.push(abs(c));
+            pq.push_back(abs((ll)(c)));
         }
         ll n=nums.size();
-        ll count,ans=0;
-        if(n&1) {
-            count=(n+1)/2;
-        }
-        else {
-            count=n/2;
-        }
-        ll j=0;
+        int k = (n + 1) / 2;
+        ll ans=0;
+        nth_element(pq.begin(),pq.begin()+k,pq.end(),greater<ll>());
         for(int i=0;i<n;i++) {
-            ll t=pq.top();
-            pq.pop();
-            if(j<count) {
-                ans+=t*t;
+            if(i<k) {
+                ans+=pq[i]*pq[i];
             }
-            else{
-                ans-=t*t;
+            else {
+                ans-=pq[i]*pq[i];
             }
-            j++;
         }
         return ans;
     }
