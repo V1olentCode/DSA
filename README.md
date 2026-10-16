@@ -1,7 +1,7 @@
 # DSA
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 21 (Easy: 8, Medium: 12, Hard: 1)
+Solved: 22 (Easy: 8, Medium: 12, Hard: 2)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -9,6 +9,7 @@ Solved: 21 (Easy: 8, Medium: 12, Hard: 1)
 | 39 | [Combination Sum](39-combination-sum/) | Medium | 2026-10-16 |
 | 40 | [Combination Sum II](40-combination-sum-ii/) | Medium | 2026-10-16 |
 | 338 | [Counting Bits](338-counting-bits/) | Easy | 2026-10-16 |
+| 41 | [First Missing Positive](41-first-missing-positive/) | Hard | 2026-10-16 |
 | 134 | [Gas Station](134-gas-station/) | Medium | 2026-10-16 |
 | 55 | [Jump Game](55-jump-game/) | Medium | 2026-10-16 |
 | 3723 | [Maximize Sum of Squares of Digits](3723-maximize-sum-of-squares-of-digits/) | Medium | 2026-10-16 |
@@ -25,5 +26,5 @@ Solved: 21 (Easy: 8, Medium: 12, Hard: 1)
 | 136 | [Single Number](136-single-number/) | Easy | 2026-10-16 |
 | 8 | [String to Integer (atoi)](8-string-to-integer-atoi/) | Medium | 2026-10-16 |
 | 2913 | [Subarrays Distinct Element Sum of Squares I](2913-subarrays-distinct-element-sum-of-squares-i/) | Easy | 2026-10-16 |
-| 41 | [First Missing Positive](41-first-missing-positive/) | Hard | 2026-10-16 |
+| 42 | [Trapping Rain Water](42-trapping-rain-water/) | Hard | 2026-10-16 |
 <!-- LEETHUB:TABLE:END -->
